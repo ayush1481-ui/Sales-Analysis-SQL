@@ -58,6 +58,3 @@ This dashboard provides sales leaders and decision-makers with:
 
 ---
 
-Feel free to explore the repository for data sources, Power BI files (if included), or code snippets. Your feedback is always welcome!
-
----
